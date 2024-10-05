@@ -24,4 +24,9 @@ Author is sandeep kashyap07
 " git status"
 
 7) add -> adds new or changed files in your working directory to the git staging area
+"git add (file name)"
+or
+"git add . " to add all the files and their changes in the folder
+
+commit - > it is the record of the changes it s like final submission button
  -->
